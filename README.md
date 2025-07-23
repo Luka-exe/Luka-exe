@@ -30,8 +30,10 @@
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/juan-arias-20b9182aa)
+- 💼 <a href="https://linkedin.com/in/juan-arias-20b9182aa" target="_blank">LinkedIn</a>
+
 - 🌍 [Portfolio Website](https://yourwebsite.com)
+- 
 - 📫 Email: jdammonoxx2@gmail.com
 
 ---
