@@ -1,5 +1,9 @@
   # Hi, I'm Juan
-![Image](https://github.com/user-attachments/assets/21d1109c-3b75-4d3a-87c0-c52dfcf856b7)
+---
+
+  I'm a **software developer** with hands-on experience in **web development**, **RPA automation**, and **databases**.  
+I enjoy building smart solutions using modern tools and clean code practices.
+
 <img src="https://github.com/user-attachments/assets/21d1109c-3b75-4d3a-87c0-c52dfcf856b7" width="200" align="right"/>
 
 I'm a **software developer** with hands-on experience in **web development**, **RPA automation**, and **databases**.  
