@@ -21,8 +21,8 @@
 
 ## 🚀 Projects
 
-### You can find information about me and my projects on my website
-
+### 🔹 [Portfolio Website]
+> You can check my website  to get information about my projects.
 
 ---
 
