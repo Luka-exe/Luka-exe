@@ -1,13 +1,19 @@
   # Hi, I'm Juan
 ---
 
-
-<img src="https://github.com/user-attachments/assets/21d1109c-3b75-4d3a-87c0-c52dfcf856b7" width="200" />
-
-  I'm a **software developer** with hands-on experience in **web development**, **RPA automation**, and **databases**.  
-I enjoy building smart solutions using modern tools and clean code practices.
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/21d1109c-3b75-4d3a-87c0-c52dfcf856b7" width="200" />
+    </td>
+    <td>
+      <p>
+        I'm a <strong>software developer</strong> with hands-on experience in <strong>web development</strong>, <strong>RPA automation</strong>, and <strong>databases</strong>.<br/>
+        I enjoy building smart solutions using modern tools and clean code practices.
+      </p>
+    </td>
+  </tr>
+</table>
 ---
 
 # 💻 Tech Stack:
