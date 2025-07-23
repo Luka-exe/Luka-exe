@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Luka
+# 👋 Hi, I'm Juan
 
 I'm a **software developer** with hands-on experience in **web development**, **RPA automation**, and **databases**.  
 I enjoy building smart solutions using modern tools and clean code practices.
@@ -25,19 +25,13 @@ I enjoy building smart solutions using modern tools and clean code practices.
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 🌍 [Portfolio Website](https://yourwebsite.com)
-- 📫 Email: your.email@example.com
+- 📫 Email: jdammonoxx2@gmail.com
 
 ---
 
