@@ -1,5 +1,6 @@
-<h1 style="color:#FFC0CB;">Hi, I'm Juan </h1>
-
+<p align="center">
+  <img src="https://via.placeholder.com/400x80/FFC0CB/000000?text=Hi,+I'm+Juan+Arias" width="300"/>
+</p>
 ---
 
 <table>
