@@ -21,17 +21,8 @@
 
 ## 🚀 Projects
 
-### 🔹 [Task Manager App](https://github.com/yourusername/task-manager)
-> A full-stack CRUD web app to manage tasks using Django and Bootstrap. Includes user auth, deadlines, and filtering.
+### You can find information about me and my projects on my website
 
-### 🔹 [RPA Web Bot](https://github.com/yourusername/rpa-web-bot)
-> A Python Selenium automation bot that logs in to a website and fills out forms automatically — mimicking repetitive user tasks.
-
-### 🔹 [Portfolio Website](https://github.com/yourusername/portfolio)
-> A responsive portfolio website showcasing my skills and projects. Built with HTML/CSS/JS and deployed with GitHub Pages.
-
-### 🔹 [API with Node.js](https://github.com/yourusername/api-nodejs)
-> A RESTful API built with Node.js and Express, using MongoDB for data storage and Postman for testing.
 
 ---
 
@@ -39,7 +30,7 @@
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 [LinkedIn](https://linkedin.com/in/juan-arias-20b9182aa)
 - 🌍 [Portfolio Website](https://yourwebsite.com)
 - 📫 Email: jdammonoxx2@gmail.com
 
