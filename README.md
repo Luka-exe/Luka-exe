@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/3ZQ3ZEF.gif" width="200"/>  # Hi, I'm Juan
+<img src="[https://i.imgur.com/3ZQ3ZEF.gif](https://imgur.com/gallery/anime-computers-uyxHlwM#3ilOwDL)" width="200"/>  # Hi, I'm Juan
 
 I'm a **software developer** with hands-on experience in **web development**, **RPA automation**, and **databases**.  
 I enjoy building smart solutions using modern tools and clean code practices.
