@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://via.placeholder.com/400x80/FFC0CB/000000?text=Hi,+I'm+Juan+Arias" width="300"/>
-</p>
----
+<h1> Hi, I'm Juan </h1>
 
 <table>
   <tr>
